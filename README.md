@@ -5,7 +5,7 @@
 </p>
 
 
-1) Download the png you want from the Icons folder. ([Icons](https://github.uio.no/hermanno/MacFolders/tree/master/Icons)
+1) Download the png you want from the Icons folder. [Icons](https://github.uio.no/hermanno/MacFolders/tree/master/Icons)
 
 2) After downloading it, open the png using preview and copy it to the clipboard (Command+C)
 
