@@ -1,6 +1,6 @@
-#Want your from thit to this?
+Want your folder to go from this to this?
 <p align="center">
-  <img src="">
+  <img src="ReadMePictures/forsidebilde.png">
 </p>
 
 
