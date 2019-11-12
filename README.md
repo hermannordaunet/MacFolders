@@ -1,14 +1,12 @@
-# MacFolders
+#Want your from thit to this?
 <p align="center">
   <img src="">
 </p>
 
 
-Making your folders pretty!!
+1) Download the png you want from the Icons folder.
 
-1) Download the png you want.
-
-2) After downloading it open the png using preview and copy it to the clipboard (command+C)
+2) After downloading it, open the png using preview and copy it to the clipboard (command+C)
 
 3) Navigate to the folder you want to change the look of. 
 
