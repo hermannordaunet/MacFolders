@@ -13,3 +13,5 @@ Making your folders pretty!!
 5) Mark the small picture of the folder on top of the info tab and paste (command+V)
 
 Enjoy!
+
+![alt text](http://url/to/https://cdn.igeeksblog.com/wp-content/uploads/2016/03/Click-Get-Info-in-Folder-on-Mac.jpg)
