@@ -14,11 +14,9 @@
 4) Right click on the folder and click 'Get info'
 
 <img src="ReadMePictures/Folder1.jpg">
-</p>
 
 5) Mark the small picture of the folder on top of the info tab and paste (command+V)
 
 <img src="ReadMePictures/Folder2.jpg">
-</p>
 
 Enjoy!
