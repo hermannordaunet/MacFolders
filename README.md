@@ -19,6 +19,7 @@ Making your folders pretty!!
 
 5) Mark the small picture of the folder on top of the info tab and paste (command+V)
 
-<img src="">
+<img src="ReadMePictures/Folder2.jpg">
 </p>
+
 Enjoy!
