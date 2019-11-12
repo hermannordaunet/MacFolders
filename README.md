@@ -14,7 +14,7 @@ Making your folders pretty!!
 
 4) Right click on the folder and click 'Get info'
 
-<img src="">
+<img src="ReadMePictures/Folder1.jpg">
 </p>
 
 5) Mark the small picture of the folder on top of the info tab and paste (command+V)
