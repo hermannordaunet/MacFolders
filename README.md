@@ -1,7 +1,7 @@
 # Want your folder to go from this to this?
 
 <p align="center">
-  <img src="ReadMePictures/forsidebilde.png">
+  <img src="ReadMePictures/forsidebilde copy.png">
 </p>
 
 
